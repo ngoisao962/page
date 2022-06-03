@@ -96,6 +96,7 @@ header li i {
 }
 label {
   color: #00204a;
+  font-size: 1rem;
 }
 .form-control:focus {
   box-shadow: none !important;
@@ -110,6 +111,11 @@ img {
   width: 100%;
   height: auto;
 }
+.closee{
+  display: flex;
+  justify-content: flex-end;
+}
+
 @media only screen and (max-width: 765px) {
   .img {
     text-align: center;
