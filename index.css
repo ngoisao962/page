@@ -155,3 +155,7 @@ img {
     font-size: 0.9rem;
   }
 }
+.brder{
+  border-bottom: 1px solid #D7D7D7;
+  margin: 20px 0px;
+}
